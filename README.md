@@ -30,6 +30,7 @@ index.html
 ```
 
 🌐 Link do Projeto Online
+<a href="https://landing-page-pratice.vercel.app/" target="_blank">Clique aqui</a>
 
 📄 Licença
 Este projeto é fictício e feito para fins de estudo e portfólio.
