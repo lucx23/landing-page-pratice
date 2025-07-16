@@ -23,6 +23,7 @@ Você pode clonar o repositório e abrir o arquivo `index.html` no seu navegador
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd nome-do-projeto
+```
 Ou simplesmente abrir o arquivo:
 ```diff
 index.html
